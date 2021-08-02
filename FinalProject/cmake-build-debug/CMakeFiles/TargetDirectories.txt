@@ -1,0 +1,3 @@
+/Users/oronbortman/FinalProjectInC/FinalProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/oronbortman/FinalProjectInC/FinalProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/oronbortman/FinalProjectInC/FinalProject/cmake-build-debug/CMakeFiles/FinalProject.dir
